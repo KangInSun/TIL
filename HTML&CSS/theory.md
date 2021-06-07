@@ -113,3 +113,52 @@ SVG(Scalable Vector Graphics)는 마크업 언어(HTML/XML) 기반의 벡터 그
 + 파일 및 코드 삽입 가능
 <br>
 
+# 특수 문자 용어
+```
+특수 문자의 영어/한글 이름과 키보드 위치.
+```
+<br>
+
+# 특수 문자 용어의 종류
+| 특수 문자 용어 종류 | 모양 | 
+|:---: | :---: |
+| Backtick. Grave | ` | 
+| Tilde | ~ | 
+| Exclamation mark | ! | 
+| At sign | @ | 
+| Sharp, Number sign | # | 
+| Dollar sign | $ | 
+| Percent sign | % | 
+| Caret | ^ | 
+| Ampersand | & | 
+| Asterisk | * | 
+| Hyphen, Dash | - | 
+| Underscore, Low dash | _ |
+| Equals sign | = |  
+| Quotation mark | " | 
+| Apostrophe | ' | 
+| Colon | : | 
+| Semicolon | ; | 
+| Comma | , |
+| Period, Dot | .| 
+| Question mark | ? | 
+| Slash | / | 
+| Backslash | \ | 
+| Parenthesis | ( ) | 
+| Brace | { } |
+| Bracket | [ ] |  
+| Angle Bracket | < > | 
+<br>
+
+# 오픈 소스 라이선스
+```
+오픈소스란 어떤 제품을 개발하는 과정에 필요한 소스 코드나 설계도를, 누구나 접근해서 열람할 수 있도록 공개하는 것이다.
+```
+| 오픈 소스 라이선스 종류 | 설명 | 
+|:---: | :---: |
+| Apache License | 아파치 소프트웨어 재단에서 자체 소프트웨어에 적용하기 위해 만든 라이선스, 개인적/상업적 이용, 배포, 수정, 특허 신청이 가능. | 
+| MIT License | 매사추세츠공과대학(MIT)에서 소프트웨어 학생들을 위해 개발한 라이선스, 개인 소스에 이 라이선스를 사용하고 있다는 표시만 지켜주면 되며, 나머지 사용에 대한 제약은 없음. | 
+| BSD License | BSD(Berkeley Software Distribution)는 버클리 캘리포니아대학에서 개발한 라이선스, MIT와 동일 조건. | 
+| Beerware | 오픈소스 개발자에게 맥주를 사줘야 하는 라이선스. 물론 만날 수 있으면 말이다. | 
+<br>
+
